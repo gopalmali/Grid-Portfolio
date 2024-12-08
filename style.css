@@ -94,9 +94,7 @@ body{
         flex-direction: column;
         padding-block: 20px;
     }
-    .heading, .subheading{
-        color: rgb(1, 14, 1);;
-    }
+
     .gallery{
         width: 100%;
         padding-inline: 12px;
